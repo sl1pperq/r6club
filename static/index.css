@@ -1,0 +1,43 @@
+@font-face {
+  font-family: Six;
+  src: url(fonts/ghostclan.ttf);
+}
+
+.siege {
+    background-color: #2499ff;
+    color: black;
+    border: 1px;
+    height: 50px;
+    width: 120px;
+    text-align: center;
+}
+
+.siege:hover {
+    background-color: #9dd1ff;
+}
+
+.main--buttons {
+    margin-top: 100px;
+}
+
+.main--title {
+    color: white;
+    margin-bottom: 40px;
+}
+
+#image {
+    margin-top: 20px;
+    height: 150px;
+    width: 150px;
+}
+
+#name {
+    color: lightgray;
+}
+
+body {
+    background-image: url("https://i.redd.it/7gegi0f3fb201.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
